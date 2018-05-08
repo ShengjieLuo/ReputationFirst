@@ -103,3 +103,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+abstract_extractor/688v1.dat
+abstract_extractor/688v2.dat
