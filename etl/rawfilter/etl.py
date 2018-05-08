@@ -22,12 +22,17 @@ def _data_filter(lines,company,source):
   nltk.data.path.append("./nltk_data")
   results = []
   for datum in lines:
-    data  = json.loads(datum)
-    date  = data["date"]
-    text  = data["text"]
-    title = data["title"]
+    data    = json.loads(datum)
+    authors = data["authors"]
+    date    = data["date"]
+    text    = data["text"]
+    title   = data["title"]
     tokens_text  = word_tokenize(text.lower())
     tokens_title = word_tokenize(title.lower())
+    tags = []
+    for word in text.lower().split():
+      if word[0]=="#":
+        tags.append(word.lower())
     #Stat is a dictionary, key is the company name, and value is the attribute
     #attributes: [in_title,title_count,total_count]
     stat  = {}
@@ -49,15 +54,17 @@ def _data_filter(lines,company,source):
       if (source=="wsj"):
         result["date"]      = date[:5] + '0' + date[5:9]
       else:
-	result["date"]      = date[:10]
+        result["date"]      = date[:10]
       result["text"]        = text
       result["tokens"]      = tokens_text
       result["company"]     = name
       result["source"]      = source
       result["in_title"]    = stat[name][0]
-      result["title_count"] = stat[name][1]
-      result["total_count"] = stat[name][2]
+      result["title_count"] = max(stat[name][1],title.lower().count(name))
+      result["total_count"] = max(stat[name][2],text.lower().count(name))
       result["title"]       = title
+      result["authors"]     = authors
+      result["tags"]        = tags
       results.append((name,json.dumps(result)))
   return results
 
