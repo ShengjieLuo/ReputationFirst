@@ -62,3 +62,122 @@
 [I 03:20:13.187 NotebookApp] Saving file at /Untitled.ipynb
 [I 03:20:13.788 NotebookApp] Saving file at /Untitled.ipynb
 [I 03:20:53.547 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 03:22:33.245 NotebookApp] Saving file at /ReputationFirst.ipynb
+[W 03:55:34.005 NotebookApp] WebSocket ping timeout after 119891 ms.
+[I 03:55:39.009 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:22721dc3c0bd44c08b879dd28c62e6ab
+[I 12:42:28.686 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 12:42:28.687 NotebookApp] Restoring connection for 3f19753b-4e58-400e-af1d-253ff86ba4d5:22721dc3c0bd44c08b879dd28c62e6ab
+[I 12:45:12.672 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:22721dc3c0bd44c08b879dd28c62e6ab
+[W 13:38:56.537 NotebookApp] Notebook ReputationFirst.ipynb is not trusted
+[I 13:38:57.348 NotebookApp] 302 GET /notebooks/image/TextRank.png (128.237.135.251) 1.69ms
+[I 13:38:57.350 NotebookApp] 302 GET /notebooks/image/google.jpeg (128.237.135.251) 1.03ms
+[I 13:38:57.351 NotebookApp] 302 GET /notebooks/image/facebook.jpeg (128.237.135.251) 0.86ms
+[I 13:38:57.353 NotebookApp] 302 GET /notebooks/image/amazon.jpeg (128.237.135.251) 0.99ms
+[I 13:38:57.354 NotebookApp] 302 GET /notebooks/image/facebook429.png (128.237.135.251) 0.68ms
+[I 13:38:57.447 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 13:40:27.080 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:40:57.386 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:43:49.112 NotebookApp] Saving file at /ReputationFirst.ipynb
+[W 13:45:58.474 NotebookApp] 404 GET /notebooks/image/intro.jpg (128.237.135.251): No such file or directory: image/intro.jpg
+[W 13:45:58.481 NotebookApp] 404 GET /notebooks/image/intro.jpg (128.237.135.251) 8.62ms referer=http://35.229.120.106:8888/notebooks/ReputationFirst.ipynb
+[I 13:46:33.884 NotebookApp] 302 GET /notebooks/image/intro.jpg (128.237.135.251) 1.10ms
+[I 13:46:57.373 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:47:19.836 NotebookApp] 302 GET /notebooks/image/motivation.jpg (128.237.135.251) 1.04ms
+[W 13:48:23.022 NotebookApp] 404 GET /notebooks/image/motivation.jpg%20=250x (128.237.135.251): No such file or directory: image/motivation.jpg =250x
+[W 13:48:23.024 NotebookApp] 404 GET /notebooks/image/motivation.jpg%20=250x (128.237.135.251) 1.87ms referer=http://35.229.120.106:8888/notebooks/ReputationFirst.ipynb
+[W 13:48:49.242 NotebookApp] 404 GET /notebooks/image/motivation.jpg%20=20*20 (128.237.135.251): No such file or directory: image/motivation.jpg =20*20
+[W 13:48:49.243 NotebookApp] 404 GET /notebooks/image/motivation.jpg%20=20*20 (128.237.135.251) 1.76ms referer=http://35.229.120.106:8888/notebooks/ReputationFirst.ipynb
+[I 13:48:57.386 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:50:57.379 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:52:57.383 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:54:57.409 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:56:57.369 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 13:58:57.379 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:00:03.298 NotebookApp] 302 GET /tree? (104.198.51.108) 0.90ms
+[I 14:00:57.377 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:02:57.383 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:04:57.391 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:06:57.381 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:08:57.384 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:09:04.111 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:12:57.403 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:14:57.377 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:16:57.382 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:18:57.773 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:20:57.381 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:21:56.407 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:22:57.437 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:24:57.384 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:26:16.078 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:26:57.444 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:28:16.070 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:30:57.425 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:32:57.411 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:34:57.400 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:36:57.389 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:38:57.399 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:39:24.229 NotebookApp] Saving file at /ReputationFirst.ipynb
+[W 14:39:54.085 NotebookApp] Notebook visualization.ipynb is not trusted
+[I 14:39:54.363 NotebookApp] Kernel started: 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[W 14:39:54.365 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251): No such file or directory: facebook.jpeg
+[W 14:39:54.367 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251) 2.02ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:39:54.399 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251): No such file or directory: amazon.jpeg
+[W 14:39:54.400 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251) 1.80ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:39:54.401 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251): No such file or directory: google.jpeg
+[W 14:39:54.401 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251) 1.20ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:39:54.414 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251): No such file or directory: facebook429.png
+[W 14:39:54.415 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251) 2.76ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[I 14:39:55.273 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 14:41:54.756 NotebookApp] Saving file at /visualization.ipynb
+[I 14:42:57.415 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:44:57.401 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:46:57.400 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:48:32.224 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:3c870a688690426398a6519990206191
+[I 14:48:57.397 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:48:59.987 NotebookApp] Saving file at /ReputationFirst.ipynb
+[W 14:49:39.019 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251): No such file or directory: facebook.jpeg
+[W 14:49:39.020 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251) 1.70ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:39.021 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251): No such file or directory: amazon.jpeg
+[W 14:49:39.022 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251) 1.13ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:39.022 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251): No such file or directory: google.jpeg
+[W 14:49:39.023 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251) 0.97ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:39.039 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251): No such file or directory: facebook429.png
+[W 14:49:39.040 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251) 1.62ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[I 14:49:39.099 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 14:49:46.119 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:f2ccf35d70d242f88b147a7a8fb19d63
+[W 14:49:50.271 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251): No such file or directory: facebook.jpeg
+[W 14:49:50.272 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251) 1.77ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:50.279 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251): No such file or directory: google.jpeg
+[W 14:49:50.280 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251) 1.50ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:50.281 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251): No such file or directory: amazon.jpeg
+[W 14:49:50.282 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251) 1.14ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:49:50.286 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251): No such file or directory: facebook429.png
+[W 14:49:50.287 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251) 1.20ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[I 14:49:50.356 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 14:50:15.371 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:ec345a04481345698a0ee6d1029d90d0
+[W 14:50:15.991 NotebookApp] Notebook visualization.ipynb is not trusted
+[W 14:50:16.261 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251): No such file or directory: facebook.jpeg
+[W 14:50:16.262 NotebookApp] 404 GET /notebooks/facebook.jpeg (128.237.135.251) 1.91ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:50:16.263 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251): No such file or directory: facebook429.png
+[W 14:50:16.264 NotebookApp] 404 GET /notebooks/facebook429.png (128.237.135.251) 1.14ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:50:16.264 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251): No such file or directory: amazon.jpeg
+[W 14:50:16.265 NotebookApp] 404 GET /notebooks/amazon.jpeg (128.237.135.251) 1.00ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[W 14:50:16.265 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251): No such file or directory: google.jpeg
+[W 14:50:16.266 NotebookApp] 404 GET /notebooks/google.jpeg (128.237.135.251) 1.12ms referer=http://35.229.120.106:8888/notebooks/visualization.ipynb
+[I 14:50:16.356 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 14:50:57.426 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:51:10.026 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:52:02.435 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
+[I 14:52:02.944 NotebookApp] Kernel restarted: 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 14:52:03.855 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 14:52:03.856 NotebookApp] Restoring connection for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
+[I 14:52:03.856 NotebookApp] Replaying 6 buffered messages
+[I 14:52:15.023 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
+[I 14:52:15.331 NotebookApp] Kernel restarted: 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 14:52:16.286 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 14:52:16.287 NotebookApp] Restoring connection for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
+[I 14:52:16.287 NotebookApp] Replaying 6 buffered messages
+[I 14:52:16.757 NotebookApp] Saving file at /visualization.ipynb
+[I 14:52:19.455 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:52:31.318 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 14:52:32.622 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
