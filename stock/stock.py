@@ -1,16 +1,9 @@
 
 # coding: utf-8
-
-# In[57]:
-
-
 import pandas as pd
 from pandas_datareader import data, wb
 import datetime
 import time
-
-
-# In[66]:
 
 
 def get_stock_pdf(ticker):
@@ -21,9 +14,6 @@ def get_stock_pdf(ticker):
     return ticker, data.DataReader(ticker, "iex", start, end)
 
 
-# In[49]:
-
-
 def read_stock_data(file):
     with open(file, 'r') as f:
         fl = f.readlines()
@@ -32,30 +22,13 @@ def read_stock_data(file):
         return tickers, tickers_map
 
 
-# In[50]:
-
-
 def output_csv(pdfs):
     for pdf in pdfs:
         pdf[1].to_csv('data/'+pdf[0]+'.csv', sep=',', encoding='utf-8')
         
 
-
-# In[54]:
-
-
 tickers, tickers_map = read_stock_data('ticker_list')
 print(tickers)
-
-
-# In[69]:
-
-
 pdfs = [get_stock_pdf(t) for t in tickers]
-
-
-# In[70]:
-
-
 output_csv(pdfs)
 
