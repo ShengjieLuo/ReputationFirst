@@ -1,0 +1,64 @@
+[I 01:55:48.920 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 01:55:49.335 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 01:55:49.363 NotebookApp] JupyterLab beta preview extension loaded from /home/shengjie_luo/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 01:55:49.364 NotebookApp] JupyterLab application directory is /home/shengjie_luo/anaconda3/share/jupyter/lab
+[I 01:55:49.397 NotebookApp] Serving notebooks from local directory: /home/shengjie_luo/ReputationFirst
+[I 01:55:49.397 NotebookApp] 0 active kernels
+[I 01:55:49.397 NotebookApp] The Jupyter Notebook is running at:
+[I 01:55:49.397 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 01:55:49.397 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 01:56:20.132 NotebookApp] 302 GET / (128.237.187.86) 0.74ms
+[I 01:56:20.162 NotebookApp] 302 GET /tree? (128.237.187.86) 1.21ms
+[I 01:56:24.312 NotebookApp] 302 POST /login?next=%2Ftree%3F (128.237.187.86) 1.17ms
+[I 01:56:32.168 NotebookApp] Creating new notebook in 
+[I 01:56:32.182 NotebookApp] Writing notebook-signing key to /home/shengjie_luo/.local/share/jupyter/notebook_secret
+[I 01:56:33.225 NotebookApp] Kernel started: 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 01:56:34.003 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 01:58:33.202 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:00:33.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:02:33.202 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:04:33.313 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:06:33.205 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:08:33.205 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:10:33.214 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:10:48.969 NotebookApp] 302 GET /notebooks/ (128.237.187.86) 1.00ms
+[I 02:12:33.209 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:14:33.241 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:16:33.210 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:18:33.222 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:20:33.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:20:43.488 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:22:33.213 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:22:35.948 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:24:33.330 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:30:33.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:32:33.216 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:34:33.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:36:33.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:38:33.223 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:40:33.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:42:33.227 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:44:33.222 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:46:33.351 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:47:03.226 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:48:33.225 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:50:20.129 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:50:33.232 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:52:33.232 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:54:33.236 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:58:33.228 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:00:33.231 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:02:33.231 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:04:33.236 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:06:33.232 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:08:33.247 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:10:24.361 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:10:33.246 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:12:01.198 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:12:33.237 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:14:33.249 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:16:33.245 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:18:33.239 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:20:13.187 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:20:13.788 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:20:53.547 NotebookApp] Saving file at /ReputationFirst.ipynb
