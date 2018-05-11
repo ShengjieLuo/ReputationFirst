@@ -181,3 +181,44 @@
 [I 14:52:19.455 NotebookApp] Saving file at /ReputationFirst.ipynb
 [I 14:52:31.318 NotebookApp] Saving file at /ReputationFirst.ipynb
 [I 14:52:32.622 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:bea5e39b1b244b979546a9ee72bdd2e9
+[W 14:55:16.357 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 14:55:21.358 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:1112cfaaf87b44678de783a7e2fca8d2
+[I 15:54:08.490 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 15:54:08.491 NotebookApp] Restoring connection for 19bd9f26-0199-426a-98f9-85fa921ac4fa:1112cfaaf87b44678de783a7e2fca8d2
+[W 16:00:08.493 NotebookApp] WebSocket ping timeout after 119918 ms.
+[I 16:00:13.495 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:1112cfaaf87b44678de783a7e2fca8d2
+[I 16:16:56.136 NotebookApp] Adapting to protocol v5.1 for kernel 19bd9f26-0199-426a-98f9-85fa921ac4fa
+[I 16:16:56.137 NotebookApp] Restoring connection for 19bd9f26-0199-426a-98f9-85fa921ac4fa:1112cfaaf87b44678de783a7e2fca8d2
+[I 16:28:22.190 NotebookApp] Starting buffering for 19bd9f26-0199-426a-98f9-85fa921ac4fa:1112cfaaf87b44678de783a7e2fca8d2
+[W 18:46:53.269 NotebookApp] 403 POST / (77.87.77.134): '_xsrf' argument missing from POST
+[W 18:46:53.269 NotebookApp] 403 POST / (77.87.77.134) 1.11ms referer=None
+[I 06:00:28.154 NotebookApp] 302 GET /notebooks/image/TextRank.png (128.237.160.212) 1.05ms
+[I 06:00:28.242 NotebookApp] Adapting to protocol v5.1 for kernel 3f19753b-4e58-400e-af1d-253ff86ba4d5
+[I 06:04:28.172 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:06:28.143 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:08:28.147 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:10:28.158 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:12:28.156 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:14:28.153 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:16:28.370 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:18:28.158 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:20:28.152 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:22:28.459 NotebookApp] Saving file at /ReputationFirst.ipynb
+[W 06:25:05.099 NotebookApp] Notebook gis_tutorial.ipynb is not trusted
+[I 06:25:06.583 NotebookApp] Kernel started: edd1bd5c-4b7f-47ac-9449-8faf04f5b3f3
+[I 06:25:07.528 NotebookApp] Adapting to protocol v5.1 for kernel edd1bd5c-4b7f-47ac-9449-8faf04f5b3f3
+[I 06:26:28.395 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:27:07.617 NotebookApp] Saving file at /gis_tutorial.ipynb
+[W 06:27:07.617 NotebookApp] Notebook gis_tutorial.ipynb is not trusted
+[I 06:28:28.152 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:30:28.379 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:32:28.379 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:34:28.152 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:36:28.377 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:37:27.885 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:38:28.379 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:40:28.390 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:40:48.859 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:41:01.501 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:41:20.566 NotebookApp] Saving file at /ReputationFirst.ipynb
+[I 06:41:22.304 NotebookApp] Starting buffering for 3f19753b-4e58-400e-af1d-253ff86ba4d5:b3a1248fa16f4f68913a850d6840c6c1
